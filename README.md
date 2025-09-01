@@ -9,20 +9,24 @@ Incluye las secciones principales de un sitio para restaurante:
 - **Menú**: listado de platos y precios.  
 
 ## Estructura
+```text
 Landing_Page/
-├─ index.html
-├─ acerca.html
-├─ contacto.html
-├─ menu.html
-├─ css/
-│ ├─ normalize.css
-│ └─ styles.css
-└─ images/
-├─ dish.png
-├─ menu.png
-├─ close.png
-├─ location.png
-└─ shopping-bag-alt.png
+│
+├── index.html
+├── acerca.html
+├── contacto.html
+├── menu.html
+│
+├── css/
+│   ├── normalize.css
+│   └── styles.css
+│
+└── images/
+    ├── dish.png
+    ├── menu.png
+    ├── close.png
+    ├── location.png
+    └── shopping-bag-alt.png
 
 
 ## Como Visualizar la pagina web
