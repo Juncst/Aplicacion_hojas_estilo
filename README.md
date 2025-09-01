@@ -27,6 +27,7 @@ Landing_Page/
     ├── close.png
     ├── location.png
     └── shopping-bag-alt.png
+```
 
 
 ## Como Visualizar la pagina web
